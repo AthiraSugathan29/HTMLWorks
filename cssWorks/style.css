@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+#id_h1first{
+    color: yellow;
+    text-align: left;
+    text-decoration: none;
+}
+.brand{
+    color:aquamarine
+}
